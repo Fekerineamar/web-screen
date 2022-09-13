@@ -1,10 +1,10 @@
 # Web-headers
 
-# Web-headers is Free Tool For Gathering Data From Web
+- Web-headers is Free Tool For Gathering Data From Web
 
-# This Tool is for Getting Response Header And Capturing URL's Page 
+- This Tool is for Getting Response Header And Capturing URL's Page 
 
-# it's Free, Fast And Easy To use!
+- it's Free, Fast And Easy To use!
 
 ## Features
 
@@ -37,8 +37,6 @@
 - Make sure you installed Nodejs ^16.15.1
 - install nodemon globally with ``` npm install -g nodemon ``` # or using yarn: ``` yarn global add nodemon``` 
 - I recommend To use yarn
-- open your terminal and run:
-
 
 - open your terminal and run:
 ```
@@ -58,7 +56,12 @@ npm start
 
 - open Your Browser And Go To 127.0.0.1:3000
 
-Happy Hacking :)!
+- Happy Hacking :)!
 
+<br>
+<br>
 
+[![facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Figma&logoColor=eeffff)](https://www.facebook.com/cody4code)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=eeffff)](https://github.com/FekerineAmar/)
+[![Website](https://img.shields.io/badge/-Website-181717?style=for-the-badge&logo=Internet-Archive&logoColor=eeffff)](https://cody4code.ga/)
 
