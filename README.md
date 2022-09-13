@@ -8,7 +8,7 @@
 
 ## Features
 
-  - Working on All Devices And System's Even Phones!
+  - Working on All Devices, System's (Mac,Linux,Win), Even Mobile!
   - No laggy or requiring more resourses, it's is Nodejs!!
   - killing of unresponding processes with specific timeout
   - supporting only text files, & no multiple files!
