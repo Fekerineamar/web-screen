@@ -1,4 +1,0 @@
-*.js linguist-detectable=true
-*.html linguist-detectable=false
-html/*.html linguist-detectable=false
-*.htm inguist-detectable=false
