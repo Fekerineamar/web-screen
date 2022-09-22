@@ -1,9 +1,9 @@
 {
-  "name": "web-screen",
+  "name": "web-header",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
+  "engines":{
     "node": "16.x"
   },
   "scripts": {
