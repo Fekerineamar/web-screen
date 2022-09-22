@@ -1,6 +1,6 @@
-# Web-headers
+# Web-Screen
 
-- Web-headers is Free Tool For Gathering Data From Web
+- Web-Screen is Free Tool For Gathering Data From Web
 
 - This Tool is for Getting Response Header And Capturing URL's Page 
 
@@ -8,7 +8,7 @@
 
 ## Features
 
-  - Working on All Devices, System's (Mac,Linux,Win), Even Mobile!
+  - Working on All Devices, System's (Mac,Linux,Win)
   - No laggy or requiring more resourses, it's is Nodejs!!
   - killing of unresponding processes with specific timeout
   - supporting only text files, & no multiple files!
@@ -40,10 +40,10 @@
 
 - open your terminal and run:
 ```
-git clone https://github.com/Fekerineamar/web-headers
+git clone https://github.com/Fekerineamar/web-screen
 ```
 ```
-cd web-headers
+cd web-screen
 ```
 ```
 npm install
@@ -64,4 +64,3 @@ npm start
 [![facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Figma&logoColor=eeffff)](https://www.facebook.com/cody4code)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=eeffff)](https://github.com/FekerineAmar/)
 [![Website](https://img.shields.io/badge/-Website-181717?style=for-the-badge&logo=Internet-Archive&logoColor=eeffff)](https://cody4code.ga/)
-
