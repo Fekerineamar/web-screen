@@ -1,13 +1,13 @@
 {
   "name": "web-header",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "engines":{
-    "node": "^16.x"
+    "node": "^16.15.1"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
