@@ -64,6 +64,17 @@ npm cache clear --force
 
 - Choose Whatever You Want Terminal Or Browser(GUI)
 
+- After You Get Your Result Please Run it in Live Server With Vscode Or install:
+
+```
+npm install -g live-server
+```
+
+- then inside Result DIR open Terminal And Run
+```
+live-server
+```
+
 - That's It!!
 
 - Happy Hacking ☠
