@@ -68,7 +68,7 @@ npm cache clear --force
 
 - Happy Hacking ツ
 
-<br>
+- ☠ Don't Forget To Follow Me ☠
 <br>
 
 [![facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Figma&logoColor=eeffff)](https://www.facebook.com/cody4code)
