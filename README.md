@@ -51,7 +51,7 @@
 
 ```
 git clone https://github.com/Fekerineamar/web-screen
-cd web-screen
+cd Web-screen
 npm install
 npm start
 ```
