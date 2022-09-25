@@ -62,9 +62,9 @@ npm start
 npm cache clear --force
 ``` 
 
-- Choose Whatever You Want Terminal Or Browser(GUI) ✔
+- Choose Whatever You Want Terminal Or Browser(GUI)
 
-- That's It ✔
+- That's It!!
 
 - Happy Hacking ツ
 
