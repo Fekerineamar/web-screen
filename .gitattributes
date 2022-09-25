@@ -1,2 +1,5 @@
+*.js    eol=lf
+*.jsx   eol=lf
+*.json  eol=lf
 *.js linguist-detectable=true
 *.html linguist-detectable=false
