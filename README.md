@@ -27,7 +27,7 @@
 
 ## Usage
 
-## Read How to install or watch on [Youtube!](https://www.youtube.com/channel/UC1_LGJISYiWv3SDbhRF6QsQ/videos)
+## watch on [Youtube!](https://www.youtube.com/watch?v=g8Pbt9X-WCg)
 
 ## Dependencies
 
@@ -45,15 +45,18 @@
 
 - Make sure you installed Nodejs ^16.x 
 
-- I suggest To use yarn 
-
 - open your terminal and run:
 
 ```
 git clone https://github.com/Fekerineamar/web-screen
-cd Web-screen
+cd web-screen
 npm install
 npm start
+```
+- I suggest To use yarn 
+
+```
+yarn install
 ```
 
 - Any Errors While Installing Try With:
