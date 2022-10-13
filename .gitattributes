@@ -1,3 +1,0 @@
-server.js linguist-detectable=true
-./route/app.js linguist-detectable=true
-*.html linguist-detectable=false
