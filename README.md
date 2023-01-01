@@ -44,8 +44,14 @@
 
 ```
 git clone https://github.com/Fekerineamar/web-screen
+```
+```
 cd web-screen
+```
+```
 npm install
+```
+```
 npm start
 ```
 - I suggest To use yarn 
