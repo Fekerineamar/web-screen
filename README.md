@@ -30,8 +30,8 @@
 ## Dependencies
 
 ```
-  "puppeteer-core": "^17.1.3",
-  "which": "^2.0.2"
+  "axios": "^1.2.2",
+  "puppeteer": "^19.5.0"
 ```
 
 ## How To install
