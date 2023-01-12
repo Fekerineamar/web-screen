@@ -15,7 +15,7 @@
   "author": "cody4code(Fekerine)",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^3.3.0",
+    "axios": "^1.2.2",
     "puppeteer": "^19.5.0"
   }
 }
