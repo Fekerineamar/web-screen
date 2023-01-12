@@ -38,8 +38,6 @@
 
 - Make sure you installed Nodejs ^16.x 
 
-- Make Sure You Have chromium Not Chrome [!Chromium](https://www.chromium.org/getting-involved/download-chromium/)
-
 - open your terminal and run:
 
 ```
