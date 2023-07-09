@@ -84,4 +84,4 @@ live-server
 
 [![facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Figma&logoColor=eeffff)](https://www.facebook.com/cody4code)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=eeffff)](https://github.com/FekerineAmar/)
-[![Website](https://img.shields.io/badge/-Website-181717?style=for-the-badge&logo=Internet-Archive&logoColor=eeffff)](https://cody4code.ga/)
+[![Website](https://img.shields.io/badge/-Website-181717?style=for-the-badge&logo=Internet-Archive&logoColor=eeffff)](https://developer.x10.mx/)
